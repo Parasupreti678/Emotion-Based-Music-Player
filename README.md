@@ -1,4 +1,7 @@
 # emotion-based-music-player
+
+Nearly all sorts of human emotions have a direct relationship with the particular music genre, and most people think that music is expressive and that its expressivity can be easily tied to people's emotions. The normal way to tell if a person is feeling happy, sad, angry, scared, depressed, or tender is by looking at their facial expressions. Humans' emotions can be altered by music, which may also have an impact on their mood and health. One of the first methods for treating some psychological illnesses is musical therapy. An intelligent system that organizes a music collection based on the genres each song conveys and then suggests a well-suited music playlist to the psychiatrist for the patients based on their facial expressions is created by the combination of musical therapy and facial emotion detection. The picture is put through facial recognition and emotion recognition. the patients' techniques. The tunes that go with The greatest playlist for this emotion is then suggested. results in calming and relaxing patients.
+
 This is a project using machine learning for detecting emotions based on the expression of the users. The interface is made up of HTML, CSS and JS, and the main code is of Python.
 
 
